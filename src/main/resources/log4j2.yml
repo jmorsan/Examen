@@ -24,10 +24,12 @@ Configuration:
         level: trace
         additivity: false
         AppenderRef:
-          - ref: LogToConsole
-          - ref: LogToRollingFile
+          ref: LogToRollingFile
 
-    Root:
-      level: error
-      AppenderRef:
-        ref: LogToConsole
+      - name: es.jms
+        level: error
+        additivity: false
+        AppenderRef:
+          ref: LogToConsole
+
+

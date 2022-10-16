@@ -1,1 +1,16 @@
 
+
+[TRACE] 2022-10-16 20:56:17.419 [main] Launcher - I'm at trace level
+[DEBUG] 2022-10-16 20:56:17.421 [main] Launcher - I'm at debug level
+[INFO ] 2022-10-16 20:56:17.421 [main] Launcher - I'm at info level
+[WARN ] 2022-10-16 20:56:17.421 [main] Launcher - I'm at warn level
+[ERROR] 2022-10-16 20:56:17.421 [main] Launcher - I'm at error level
+[FATAL] 2022-10-16 20:56:17.422 [main] Launcher - I'm at fatal level
+[INFO ] 2022-10-16 20:56:17.423 [main] Launcher - Generating random values: -596787697 and -1846760424
+[TRACE] 2022-10-16 20:56:37.601 [main] Launcher - I'm at trace level
+[DEBUG] 2022-10-16 20:56:37.603 [main] Launcher - I'm at debug level
+[INFO ] 2022-10-16 20:56:37.603 [main] Launcher - I'm at info level
+[WARN ] 2022-10-16 20:56:37.604 [main] Launcher - I'm at warn level
+[ERROR] 2022-10-16 20:56:37.604 [main] Launcher - I'm at error level
+[FATAL] 2022-10-16 20:56:37.604 [main] Launcher - I'm at fatal level
+[INFO ] 2022-10-16 20:56:37.606 [main] Launcher - Generating random values: -620981806 and 594360314
