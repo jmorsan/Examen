@@ -1,4 +1,4 @@
-package es.jms.examen;
+package es.examen.JMS_unidad1.ejercicio2;
 
 import java.util.Random;
 

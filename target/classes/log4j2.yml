@@ -20,13 +20,13 @@ Configuration:
 
   Loggers:
     logger:
-      - name: es.jms
+      - name: es.examen
         level: trace
         additivity: false
         AppenderRef:
           ref: LogToRollingFile
 
-      - name: es.jms
+      - name: es.examen
         level: error
         additivity: false
         AppenderRef:
